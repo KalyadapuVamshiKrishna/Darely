@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1",
+    "title": "Drink 2L of Water",
+    "description": "Stay hydrated by drinking 2 liters of water today!",
+    "fullDescription": "Water is essential for life. Your goal is to drink 8 glasses (250ml each) throughout the day. Track your progress!",
+    "category": "Health",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "2",
+    "title": "Read 10 Pages",
+    "description": "Read at least 10 pages of a non-fiction book.",
+    "fullDescription": "Expand your mind. Pick a book on psychology, finance, or coding and read 10 pages without distraction.",
+    "category": "Learning",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "3",
+    "title": "100 Pushups",
+    "description": "Complete 100 pushups throughout the day.",
+    "fullDescription": "You don't have to do them all at once. Break them into sets of 10 or 20. Focus on form!",
+    "category": "Fitness",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "4",
+    "title": "Sketch a Tree",
+    "description": "Go outside and sketch a tree in 5 minutes.",
+    "fullDescription": "Observe nature. Don't worry about making it a masterpiece. Just focus on the shapes and shadows.",
+    "category": "Creativity",
+    "difficulty": "Easy"
+  }
+]
